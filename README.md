@@ -1,5 +1,5 @@
 # Hello, I am Rakrita!
-![PROFILE PICTURE](https://github.com/rakritarao/git_intro/blob/main/profilepic.jpg)
+![PROFILE PICTURE](githubprof.jpg)
 I am currently a rising sophomore studying Computer Science and Business Management at Stony Brook University. I am highly enthusiastic about learning about the intersection of the two aforementioned academic fields and how they can be implemented to solve real-world problems.
 
 # Current Activities
